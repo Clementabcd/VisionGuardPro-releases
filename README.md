@@ -84,46 +84,6 @@ Toutes les **20 minutes**, regardez un objet à **20 pieds** (6 mètres) pendant
 
 ---
 
-## 📁 Architecture du Projet
-
-```
-VisionGuardPro/
-│
-├── 📱 Application Source
-│   ├── vision_guard_pro.py          # Code principal (800+ lignes)
-│   ├── requirements.txt              # Dépendances Python
-│   └── icon.ico                     # Icône de l'application
-│
-├── 🔨 Scripts de Build
-│   ├── build.py                     # Configuration PyInstaller
-│   ├── create_icon.py               # Génération d'icône
-│   ├── build_all.bat                # Build automatisé Windows
-│   ├── build_all.sh                 # Build automatisé Linux/Mac
-│   └── installer.iss                # Configuration Inno Setup
-│
-├── 📖 Documentation
-│   ├── README.md                   # Guide utilisateur complet
-│   ├── QUICKSTART.md                # Démarrage rapide
-│   ├── DEPLOYMENT.md                # Guide de déploiement
-│   ├── PROJECT_SUMMARY.md           # Ce fichier
-│   └── LICENSE.txt                  # Licence MIT
-│
-├── 📦 Sortie (généré après build)
-│   ├── build/                       # Fichiers temporaires PyInstaller
-│   ├── dist/
-│   │   └── VisionGuardPro.exe       # Exécutable standalone
-│   └── output/
-│       └── VisionGuardPro_Setup.exe # Installateur final
-│
-└── 💾 Données Utilisateur (créé automatiquement)
-    └── ~/.visionguard/               # %USERPROFILE%\.visionguard\ sur Windows
-        ├── config.json              # Configuration utilisateur
-        └── stats.json               # Statistiques
-
-```
-
----
-
 ## 🔧 Fonctionnement Technique
 
 ### Gestion du Timer
@@ -293,8 +253,7 @@ Fichiers de documentation : 7
 Dépendances Python : 4
 Taille totale projet : ~2-3 MB (source)
 Taille exécutable : ~20-30 MB
-Temps de développement : ~20-30 heures
-Version actuelle : 1.0
+Version actuelle : 1.5
 ```
 
 ---
