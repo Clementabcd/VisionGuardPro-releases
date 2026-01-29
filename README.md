@@ -5,6 +5,8 @@ Faites attention à vos yeux et réduisez la fatigue visuelle grâce aux pauses 
 
 ![Image2](./Screenshot2.png)
 
+---
+
 ## 🎯 Description
 
 **Vision Guard Pro** est une application de bureau pour Windows qui aide à protéger la santé visuelle lors de longues sessions devant l'écran, basée sur la règle scientifique 20-20-20.
