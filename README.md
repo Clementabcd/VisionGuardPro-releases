@@ -1,5 +1,5 @@
 # Vision Guard Pro
-Faites attention à vos yeux et réduisez la fatigue visuelle grâce aux pauses intelligentes. Installez Vision Guard Pro !
+Faites attention à vos yeux et réduisez la fatigue visuelle grâce aux pauses intelligentes basée sur la règle 20-20-20.
 
 ![Image1](./Screenshot1.png)
 
